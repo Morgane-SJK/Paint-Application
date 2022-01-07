@@ -11,5 +11,5 @@ Il s’agit d’une interface graphique permettant de dessiner à l’aide de di
 Le rapport est rédigé en anglais.
 
 <p>
-  <kbd><img src="./images/Demo.png" width="700"></kbd>
+  <img src="./images/Demo.png" width="700">
 </p>
