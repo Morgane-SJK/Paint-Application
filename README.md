@@ -9,3 +9,7 @@
 Il s’agit d’une interface graphique permettant de dessiner à l’aide de différents pinceaux, couleurs, tailles… Il est également possible d’ouvrir une image pour dessiner dessus ou même de sauvegarder une image.
 
 Le rapport est rédigé en anglais.
+
+<p>
+  <kbd><img src="./images/Demo.png" width="700"></kbd>
+</p>
